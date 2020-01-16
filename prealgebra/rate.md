@@ -14,11 +14,14 @@ Conversely, knowing the rate, you can calculate the other quantities:
 While it is tempting to memorize the formula, there is really no need. Try to think in terms of how multiplication and division is defined. The rate is essential is the unit quantity. For example, speed is essentially the number of miles one travels per hour (or number of meters in minutes). So, in this context, time simply defines the number of units, and the distance is the total quantities. So, by definition of  multiplication, speed multiplied by time gives the distance. The same is true for other types of quantities. 
 
 ## Questions
+
 1. A train is traveling at 200 miles per hour. How much time does it take for the train to travel 600 miles?
 
 2. Tommy and Sammy live in two cities 16 miles apart. On Sunday, they decide to take off at the same time to meet in the middle. Tommy will walk to the meeting at 2 miles per hour, while Sammy will bike at 6 miles per hour. How many hours does it take for them to meet each other? And how far would Tommy have walked from start to meeting?
 
 3.	A garden is divided into identical squares. A fast snail and a slow snail move along the perimeter of the garden starting simultaneously from the corner S but in different directions. The slow snail moves at the speed of 1 meter per hour (1 m/h) and the fast one at 2 meters per hour (2 m/h). At what point will the two snails meet? 
+![Illustration of problem #3](rate_prob3.png)
+
 
 4.	In the race between the rabbit and tortoise, when the rabbit woke up, he found that tortoise was 4 miles ahead of him already, and was only another one mile away from the destination. Suppose the rabbit can run as fast as 5 miles per hour, and tortoise can only go 1 mile per hour. 
 
