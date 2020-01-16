@@ -2,14 +2,14 @@
 
 ## The Concept
 The rate is defined the total value divided by the quantities. For example,
-a.	Speed = distance / time
-b.	Price = Money spent / quantities purchased
-c.	Productivity = work done / # of ppl / time
+*	Speed = distance / time
+*	Price = Money spent / quantities purchased
+*	Productivity = work done / # of ppl / time
 
 Conversely, knowing the rate, you can calculate the other quantities:
-a.	Distance = Speed * time, or Time = Distance / Speed
-b.	Money spent = Quantities purchased * Price, or Purchased = Spent / Price
-c.	Work done = Productivity * # of people * Time
+*	Distance = Speed * time, or Time = Distance / Speed
+*	Money spent = Quantities purchased * Price, or Purchased = Spent / Price
+*	Work done = Productivity * # of people * Time
 
 While it is tempting to memorize the formula, there is really no need. Try to think in terms of how multiplication and division is defined. The rate is essential is the unit quantity. For example, speed is essentially the number of miles one travels per hour (or number of meters in minutes). So, in this context, time simply defines the number of units, and the distance is the total quantities. So, by definition of  multiplication, speed multiplied by time gives the distance. The same is true for other types of quantities. 
 
