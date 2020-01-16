@@ -11,11 +11,11 @@ Conversely, knowing the rate, you can calculate the other quantities:
 *	Money spent = Quantities purchased * Price, or Purchased = Spent / Price
 *	Work done = Productivity * # of people * Time
 
-While it is tempting to memorize the formula, there is really no need. Try to think in terms of how multiplication and division is defined. The rate is essential is the unit quantity. For example, speed is essentially the number of miles one travels per hour (or number of meters in minutes). So, in this context, time simply defines the number of units, and the distance is the total quantities. So, by definition of  multiplication, speed multiplied by time gives the distance. The same is true for other types of quantities. 
+While it is tempting to memorize the formula, there is really no need. Try to think in terms of how multiplication and division is defined. The rate is essentially the unit quantity. For example, speed, as the unit quantity, is defined as the number of miles one travels per hour (or number of meters in minutes). So, in this context, time simply defines the number of such "speed" units, and the distance is the total quantities. So, by definition of multiplication, speed multiplied by time gives the distance. Or by definition of division, divide the distance travelled by the time it takes gives the distance travelled in unit time, or Speed. Try to see this in the problem #1, and always refer back to this problem when you are not sure. The same is true for other types of quantities. 
 
 ## Questions
 
-1. A train is traveling at 200 miles per hour. How much time does it take for the train to travel 600 miles?
+1. A train is traveling at 200 miles per hour. How much time does it take for the train to travel 600 miles? 
 
 2. Tommy and Sammy live in two cities 16 miles apart. On Sunday, they decide to take off at the same time to meet in the middle. Tommy will walk to the meeting at 2 miles per hour, while Sammy will bike at 6 miles per hour. How many hours does it take for them to meet each other? And how far would Tommy have walked from start to meeting?
 
@@ -57,5 +57,3 @@ While it is tempting to memorize the formula, there is really no need. Try to th
 
 16.	甲、乙两人同时从山脚开始爬山，到达山顶后就立即下山，他们两人的下山速度都是各自上山速度的1.5倍，且甲比乙快。开始后1小时，甲与乙在离山顶600米处相遇，当乙到达山顶时，甲刚好下到半山腰，求甲从出发到返回出
 发点共需多少小时？
-
-
