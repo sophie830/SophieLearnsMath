@@ -12,8 +12,8 @@
 	* Write down how you can transform division into multiplication, eg. <img src="https://render.githubusercontent.com/render/math?math=a/b">
 
 ## Other commonly used properties
-1. <img src="https://render.githubusercontent.com/render/math?math=a-(b+c) =">
-2. <img src="https://render.githubusercontent.com/render/math?math=a-(b-c+d)=">
+1. <img src="https://render.githubusercontent.com/render/math?math=a-(b\+c) =">
+2. <img src="https://render.githubusercontent.com/render/math?math=a-(b-c\+d)=">
 3. <img src="https://render.githubusercontent.com/render/math?math=-(-x)=">
 4. <img src="https://render.githubusercontent.com/render/math?math=(-a)\cdot b=">
 5. <img src="https://render.githubusercontent.com/render/math?math=(-a)\cdot (-b)=">
@@ -25,15 +25,15 @@
 11. <img src="https://render.githubusercontent.com/render/math?math=a\cdot b \div c=a \cdot (?)"> 
 12. <img src="https://render.githubusercontent.com/render/math?math=(-1) \cdot a =">
 ## Prove the following:
-1. <img src="https://render.githubusercontent.com/render/math?math=-x-y = -(x+y)">
-2. <img src="https://render.githubusercontent.com/render/math?math=-a + b = b - a">
+1. <img src="https://render.githubusercontent.com/render/math?math=-x-y = -(x\+y)">
+2. <img src="https://render.githubusercontent.com/render/math?math=-a \+ b = b - a">
 3. <img src="https://render.githubusercontent.com/render/math?math=x \frac{1}{x}= 1">
 4. <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{x} \cdot\frac{1}{y}=\frac{1}{xy}">
 5. <img src="https://render.githubusercontent.com/render/math?math=\frac{a}{\frac{b}{c}} =\frac{ac}{b}">
 6. <img src="https://render.githubusercontent.com/render/math?math=-(-x)=x">
  ## Fill in the blanks 
-1. <img src="https://render.githubusercontent.com/render/math?math=(x+y)\div(xy)=?+?">
-2. <img src="https://render.githubusercontent.com/render/math?math=a*b+a=a*(?)">
+1. <img src="https://render.githubusercontent.com/render/math?math=(x\+y)\div(xy)=?\+?">
+2. <img src="https://render.githubusercontent.com/render/math?math=a*b\+a=a*(?)">
 3. <img src="https://render.githubusercontent.com/render/math?math=a \div 2 * 4= ?">
 ## Calculation with negative numbers
  1. (-9)-(-13)+(-20)+(-2) 
