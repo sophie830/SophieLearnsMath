@@ -4,37 +4,37 @@
 * Addition:
 	* Write down the two properties of addition
 * Subtraction:
-	* Write down how you can transform subtraction into addition, eg. $a-b$
+	* Write down how you can transform subtraction into addition, eg. <img src="https://render.githubusercontent.com/render/math?math=a-b">
 * Multiplication
 	* Write down the two properties of multiplication
 	* Write down Associative rule 
 * Division:
-	* Write down how you can transform division into multiplication, eg. $a/b$
+	* Write down how you can transform division into multiplication, eg. <img src="https://render.githubusercontent.com/render/math?math=a/b">
 
 ## Other commonly used properties
-1. $a-(b+c) =$
-2. $a-(b-c+d)=$
-3. $-(-x)=$
-4. $(-a)\cdot b=$
-5. $(-a)\cdot (-b)=$
-6. $(-a)\div a =$
-7. $a*\frac{1}{a}=$
-8. $1\div\frac{1}{a}=$
-9. $a\div (b\div c)=$
-10. $a\div (b\cdot c)=$
-11. $a\cdot b \div c=a \cdot (?)$ 
-12. $(-1) \cdot a =$
+1. <img src="https://render.githubusercontent.com/render/math?math=a-(b+c) =">
+2. <img src="https://render.githubusercontent.com/render/math?math=a-(b-c+d)=">
+3. <img src="https://render.githubusercontent.com/render/math?math=-(-x)=">
+4. <img src="https://render.githubusercontent.com/render/math?math=(-a)\cdot b=">
+5. <img src="https://render.githubusercontent.com/render/math?math=(-a)\cdot (-b)=">
+6. <img src="https://render.githubusercontent.com/render/math?math=(-a)\div a =">
+7. <img src="https://render.githubusercontent.com/render/math?math=a*\frac{1}{a}=">
+8. <img src="https://render.githubusercontent.com/render/math?math=1\div\frac{1}{a}=">
+9. <img src="https://render.githubusercontent.com/render/math?math=a\div (b\div c)=">
+10. <img src="https://render.githubusercontent.com/render/math?math=a\div (b\cdot c)=">
+11. <img src="https://render.githubusercontent.com/render/math?math=a\cdot b \div c=a \cdot (?)"> 
+12. <img src="https://render.githubusercontent.com/render/math?math=(-1) \cdot a =">
 ## Prove the following:
-1. $-x-y = -(x+y)$
-2. $-a + b = b - a$
-3. $x \frac{1}{x}= 1$
-4. $\frac{1}{x} \cdot\frac{1}{y}=\frac{1}{xy}$
-5. $\frac{a}{\frac{b}{c}} =\frac{ac}{b}$
-6. $-(-x)=x$
+1. <img src="https://render.githubusercontent.com/render/math?math=-x-y = -(x+y)">
+2. <img src="https://render.githubusercontent.com/render/math?math=-a + b = b - a">
+3. <img src="https://render.githubusercontent.com/render/math?math=x \frac{1}{x}= 1">
+4. <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{x} \cdot\frac{1}{y}=\frac{1}{xy}">
+5. <img src="https://render.githubusercontent.com/render/math?math=\frac{a}{\frac{b}{c}} =\frac{ac}{b}">
+6. <img src="https://render.githubusercontent.com/render/math?math=-(-x)=x">
  ## Fill in the blanks 
-1. $(x+y)\div(xy)=?+?$
-2. $a*b+a=a*(?)$
-3. $a \div 2 * 4= ?$
+1. <img src="https://render.githubusercontent.com/render/math?math=(x+y)\div(xy)=?+?">
+2. <img src="https://render.githubusercontent.com/render/math?math=a*b+a=a*(?)">
+3. <img src="https://render.githubusercontent.com/render/math?math=a \div 2 * 4= ?">
 ## Calculation with negative numbers
  1. (-9)-(-13)+(-20)+(-2) 
  1. 3+13-(-6)÷6 
