@@ -31,6 +31,8 @@
 4. <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{x} \cdot\frac{1}{y}=\frac{1}{xy}">
 5. <img src="https://render.githubusercontent.com/render/math?math=\frac{a}{\frac{b}{c}} =\frac{ac}{b}">
 6. <img src="https://render.githubusercontent.com/render/math?math=-(-x)=x">
+6. <img src="https://render.githubusercontent.com/render/math?math=(a%2Bb)^2 = a^2 %2B 2ab %2B b^2">
+6. <img src="https://render.githubusercontent.com/render/math?math=(a-b)^2 = a^2 - b^2">
  ## Fill in the blanks 
 1. <img src="https://render.githubusercontent.com/render/math?math=(x%2By)\div(xy)=?%2B?">
 2. <img src="https://render.githubusercontent.com/render/math?math=a*b%2Ba=a*(?)">
