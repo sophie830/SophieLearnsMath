@@ -35,7 +35,7 @@
 6. <img src="https://render.githubusercontent.com/render/math?math=(a-b)^2 = a^2 - b^2">
  ## Fill in the blanks 
 1. <img src="https://render.githubusercontent.com/render/math?math=(x%2By)\div(xy)=?%2B?">
-2. <img src="https://render.githubusercontent.com/render/math?math=a*b%2Ba=a*(?)">
+2. <img src="https://render.githubusercontent.com/render/math?math=ab%2Ba=a\cdot (?)">
 3. <img src="https://render.githubusercontent.com/render/math?math=a \div 2 * 4= ?">
 ## Calculation with negative numbers
  1. (-9)-(-13)+(-20)+(-2) 
